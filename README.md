@@ -1,4 +1,12 @@
-### Notes on V1 of this theme
+# My Obsidian Theme
+
+This theme is a fork of [Things Theme](https://github.com/colineckert/obsidian-things) by [ Colin Eckert](https://github.com/colineckert).
+
+## Changes
+I primarly want to change the heading colors and trailing margin since some colors standout too much for headings h4+ and I often add a blank line after the main headings h1-3.
+
+
+## Original Notes on V1 of this theme 
 
 V1 of this theme was built using code from **@kepano's** great Minimal theme. Please support @kepano's work!
 
